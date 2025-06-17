@@ -15,5 +15,7 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia e desenvo
 ##
 
 <div> 
-  <a href="www.linkedin.com/in/luis-moura-117a83309" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luis-moura-117a83309" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
